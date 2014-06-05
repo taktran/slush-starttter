@@ -1,4 +1,4 @@
-# slush-starttter [![Build Status](https://secure.travis-ci.org/taktran/slush-starttter.png?branch=master)](https://travis-ci.org/taktran/slush-starttter) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-starttter.png)](http://badges.enytc.com/for/npm/slush-starttter) [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/taktran/slush-starttter/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+# slush-starttter [![Build Status](https://secure.travis-ci.org/taktran/slush-starttter.png?branch=master)](https://travis-ci.org/taktran/slush-starttter) [![NPM version](https://badge-me.herokuapp.com/api/npm/slush-starttter.png)](http://badges.enytc.com/for/npm/slush-starttter)
 
 > A slush generator for the starttter boilerplate
 
