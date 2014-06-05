@@ -1,0 +1,46 @@
+{
+  "name": "slush-starttter",
+  "description": "A slush generator for the starttter boilerplate",
+  "version": "0.0.1",
+  "homepage": "https://github.com/taktran/slush-starttter",
+  "author": {
+    "name": "Tak Tran",
+    "email": "contact@tutaktran.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/taktran/slush-starttter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taktran/slush-starttter/issues"
+  },
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/taktran/slush-starttter/blob/master/LICENSE"
+    }],
+  "main": "slushfile.js",
+  "engines": {
+    "node": ">= 0.10.26",
+    "npm": ">=1.4.3"
+  },
+  "scripts": {
+    "test": "echo \"No tests\""
+  },
+  "dependencies": {
+    "gulp": "^3.6.2",
+    "gulp-template": "^0.1.1",
+    "gulp-install": "^0.1.4",
+    "gulp-conflict": "^0.1.1",
+    "gulp-rename": "^1.2.0",
+    "underscore.string": "^2.3.3",
+    "inquirer": "^0.4.1"
+  },
+  "peerDependencies": {
+    "slush": ">=1.0.0"
+  },
+  "keywords": [
+    "slushgenerator",
+    "gulp",
+    "starttter"
+  ]
+}
